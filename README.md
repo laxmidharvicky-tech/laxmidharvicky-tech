@@ -1,6 +1,6 @@
 # Hi, I'm Laxmidhar 👋
 
-![Banner](https://copilot.microsoft.com/th/id/BCO.d6974219-3940-4fa5-b171-f9dc12687e7f.png)
+![Banner](https://raw.githubusercontent.com/laxmidharvicky-tech/laxmidharvicky-tech/main/Firefly_Gemini%20Flash_add%20some%20frontend%20language%20image%20190575.png)
 
 
 🚀 Aspiring Full Stack Developer (Java + React)  
